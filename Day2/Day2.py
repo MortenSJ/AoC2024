@@ -42,13 +42,9 @@ for i in f:
         sum = sum + 1
     else:
         print("Fasle " + str(list_of_reports))
-    else:
-        print("Fasle " + str(list_of_reports))
+
 
 print(f'The sum for the first task is: {sum}')
-
-#221 is too low
-#530 is too high
 
 #221 is too low
 #530 is too high
